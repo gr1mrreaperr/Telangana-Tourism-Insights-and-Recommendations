@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Telangana-Tourism-Insights-and-Recommendations - Provide Insights to Telangana Government Tourism Department
 
 ## Project overview 👀
