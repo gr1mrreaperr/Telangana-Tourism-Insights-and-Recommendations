@@ -8,10 +8,10 @@ As a data analyst, my task is to analyze the given visitor data (Domestic & Fore
 do additional research and provide data-informed recommendations to the Telangana government which can be used to increase their revenue by improving administrative operations.
 
 ## Resources Provided:
-a.    Dataset required to answer preliminary research questions.
-b.    Metadata
-c.    Instructions for using dataset.
-d.    Sample Presentation
+  a.    Dataset required to answer preliminary research questions.
+  b.    Metadata
+  c.    Instructions for using dataset.
+  d.    Sample Presentation
 
 ## Tech used ⚙️
 
