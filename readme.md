@@ -25,4 +25,4 @@ do additional research and provide data-informed recommendations to the Telangan
 * Link to Interactive dashboard:  [click here](https://lnkd.in/dWyiYUXD)
 * Link to Presentation video:  [click here](https://lnkd.in/dZcuEWEc)
 * Link to the challenge video:  [click here](https://lnkd.in/da5yWksj) 
-* Link to the Presentation File:  [click here](Telangana Tourism - Insights & Recommendations.pdf)
+* Link to the Presentation File:  [click here](https://github.com/gr1mrreaperr/Telangana-Tourism-Insights-and-Recommendations/blob/main/Telangana%20Tourism%20-%20Insights%20%26%20Recommendations.pdf)
