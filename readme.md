@@ -13,7 +13,7 @@ do additional research and provide data-informed recommendations to the Telangan
  * Instructions for using dataset.
  * Sample Presentation
 
-## Tech used ⚙️
+## Techstack used ⚙️
 
 * Python V3.9.12
 * Pandas V1.4.3
